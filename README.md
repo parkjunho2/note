@@ -19,3 +19,9 @@ import java.util.Random;
 ```
 
 impot는 직접 작성하지 않고 **단축키**인 `ctrl+shift+o`를 누릅니다.
+
+|백과|사전|
+|:---:|:---|
+
+난수 생성의 원리가 궁금하면 [위키백과](https://ko.wikipedia.org/wiki/%EB%82%9C%EC%88%98)에서 확인할 수 있습니다.
+![카지노 이미지](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/9b/72/c4/getlstd-property-photo.jpg?w=1200&h=-1&s=1)
